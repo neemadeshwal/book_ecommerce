@@ -1,4 +1,4 @@
-import {BsCart4,BsHeart,BsPersonCircle,BsMenu} from "react-icons/bs"
+import {BsCart4,BsHeart,BsPersonCircle} from "react-icons/bs"
 import { NavLink,Link } from "react-router-dom"
 import React,{ useState } from "react"
 import { useGlobalContext } from "../context"
