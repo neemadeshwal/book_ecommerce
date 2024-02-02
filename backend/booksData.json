@@ -1,0 +1,3937 @@
+
+[
+    {
+      "id": 1,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "ratings": 4.5,
+      "featured": true,
+      "bestseller": false,
+      "price": 12.99,
+      "image": "assets/images/catcher-in-the-rye.jpg",
+      "description": "Holden Caulfield, a disenchanted teenager, recounts his experiences in New York City, exploring themes of identity, adolescence, and societal expectations. A classic novel that continues to resonate with readers of all ages.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-02-01",
+      "genre": "Fiction",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 0,
+      "reviews": [
+        {
+          "username": "BookLover123",
+          "rating": 5,
+          "comment": "Absolutely loved it! Must-read."
+        },
+        {
+          "username": "ReaderX",
+          "rating": 4,
+          "comment": "Enjoyable, but the ending left me wanting more."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 15.99
+        },
+        "hardcover": {
+          "price": 24.99
+        },
+        "ebook": {
+          "price": 9.99
+        }
+      },
+      "publishedDate": "1951-07-16"
+    },
+    {
+      "id": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "ratings": 4.7,
+      "featured": false,
+      "bestseller": true,
+      "price": 15.50,
+      "image": "assets/images/mocking-bird-front.jpg",
+      "description": "Set in the racially charged American South, this novel follows the Finch family as they navigate issues of morality, racial injustice, and compassion. An enduring classic that tackles important social themes.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-02-15",
+      "genre": "Fiction",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "LiteratureLover",
+          "rating": 4.5,
+          "comment": "Compelling and thought-provoking."
+        },
+        {
+          "username": "BookCritic",
+          "rating": 5,
+          "comment": "An absolute classic that everyone should read."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 13.99
+        },
+        "hardcover": {
+          "price": 24.50
+        },
+        "ebook": {
+          "price": 9.50
+        }
+      },
+      "publishedDate": "1960-07-11"
+    },
+    {
+      "id": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": true,
+      "price": 18.99,
+      "image": "assets/images/1984-f.jpg",
+      "description": "A dystopian novel set in a totalitarian society, Orwell's masterpiece explores themes of government surveillance, thought control, and the consequences of unchecked power. A chilling warning about the dangers of authoritarianism.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-03-01",
+      "genre": "Dystopian",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 10,
+      "reviews": [
+        {
+          "username": "DystopiaReader",
+          "rating": 4.5,
+          "comment": "A thought-provoking and unsettling narrative."
+        },
+        {
+          "username": "OrwellFanatic",
+          "rating": 5,
+          "comment": "Timely and relevant, a must-read for any era."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 15.99
+        },
+        "hardcover": {
+          "price": 28.99
+        },
+        "ebook": {
+          "price": 12.99
+        }
+      },
+      "publishedDate": "1949-06-08"
+    },
+    {
+      "id": 4,
+      "bookName": "Brave New World",
+      "author": "Aldous Huxley",
+      "ratings": 4.6,
+      "featured": false,
+      "bestseller": true,
+      "price": 17.99,
+      "image": "assets/images/brave-new-world.jpg",
+      "description": "Huxley's dystopian vision explores a world where technological advancements, conditioning, and a rigid caste system control society. A provocative exploration of the consequences of scientific progress.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-03-15",
+      "genre": "Dystopian",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "DystopiaEnthusiast",
+          "rating": 4.8,
+          "comment": "An unsettling glimpse into a possible future."
+        },
+        {
+          "username": "ReaderFuture",
+          "rating": 4.5,
+          "comment": "Thought-provoking and relevant to our times."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 14.99
+        },
+        "hardcover": {
+          "price": 26.99
+        },
+        "ebook": {
+          "price": 11.99
+        }
+      },
+      "publishedDate": "1932-09-14"
+    },
+    {
+      "id": 5,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "ratings": 4.4,
+      "featured": true,
+      "bestseller": false,
+      "price": 14.50,
+      "image": "assets/images/great-gatsby.jpg",
+      "description": "Set in the Roaring Twenties, Fitzgerald's novel delves into the decadence, excess, and disillusionment of the Jazz Age. A timeless exploration of the American Dream and its elusive nature.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-04-01",
+      "genre": "Classic",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 0,
+      "reviews": [
+        {
+          "username": "GatsbyFan",
+          "rating": 4.5,
+          "comment": "Captivating and beautifully written."
+        },
+        {
+          "username": "LiteraryExplorer",
+          "rating": 4,
+          "comment": "An exploration of the American Dream's dark side."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 12.99
+        },
+        "hardcover": {
+          "price": 22.99
+        },
+        "ebook": {
+          "price": 9.99
+        }
+      },
+      "publishedDate": "1925-04-10"
+    },
+    {
+      "id": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "ratings": 4.9,
+      "featured": true,
+      "bestseller": true,
+      "price": 22.99,
+      "image": "assets/images/the-hobbit.jpg",
+      "description": "Bilbo Baggins, a hobbit, embarks on a grand adventure to reclaim treasure guarded by the dragon Smaug. Along the way, he discovers courage and friendship in unexpected places.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-04-15",
+      "genre": "Fantasy",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "HobbitFan",
+          "rating": 5,
+          "comment": "A delightful journey with memorable characters."
+        },
+        {
+          "username": "FantasyExplorer",
+          "rating": 4.8,
+          "comment": "Tolkien's world-building is simply magical."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 18.99
+        },
+        "hardcover": {
+          "price": 32.99
+        },
+        "ebook": {
+          "price": 14.99
+        }
+      },
+      "publishedDate": "1937-09-21"
+    },
+    {
+      "id": 7,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "ratings": 4.7,
+      "featured": true,
+      "bestseller": true,
+      "price": 16.99,
+      "image": "assets/images/pride-and-prejudice.jpg",
+      "description": "Elizabeth Bennet navigates love, class, and societal expectations in early 19th-century England. Jane Austen's timeless masterpiece explores themes of romance and social commentary.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-05-01",
+      "genre": "Romance",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "AustenAdmirer",
+          "rating": 4.5,
+          "comment": "A classic romance with wit and charm."
+        },
+        {
+          "username": "LiteraryRomantic",
+          "rating": 5,
+          "comment": "Elizabeth and Darcy's story is unforgettable."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 14.99
+        },
+        "hardcover": {
+          "price": 26.99
+        },
+        "ebook": {
+          "price": 12.99
+        }
+      },
+      "publishedDate": "1813-01-28"
+    },
+    {
+      "id": 8,
+      "bookName": "The Martian",
+      "author": "Andy Weir",
+      "ratings": 4.8,
+      "featured": true,
+      "bestseller": true,
+      "price": 19.99,
+      "image": "assets/images/the-martian-f.jpg",
+      "description": "Stranded on Mars, astronaut Mark Watney must use his ingenuity to survive and communicate with Earth. Andy Weir's gripping novel combines science, humor, and suspense.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-05-15",
+      "genre": "Science Fiction",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "SpaceExplorer",
+          "rating": 4.8,
+          "comment": "A thrilling tale of survival against the odds."
+        },
+        {
+          "username": "SciFiEnthusiast",
+          "rating": 5,
+          "comment": "Weir's attention to detail is commendable."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 16.99
+        },
+        "hardcover": {
+          "price": 29.99
+        },
+        "ebook": {
+          "price": 14.99
+        }
+      },
+      "publishedDate": "2011-09-27"
+    },
+    {
+      "id": 9,
+      "bookName": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "ratings": 4.6,
+      "featured": false,
+      "bestseller": true,
+      "price": 18.50,
+      "image": "assets/images/the-girl-on-train.jpg",
+      "description": "A psychological thriller that follows the intertwined lives of three women, exploring themes of deception, obsession, and the consequences of choices. A gripping and suspenseful page-turner.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-06-01",
+      "genre": "Thriller",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "ThrillerFanatic",
+          "rating": 4.5,
+          "comment": "Kept me guessing until the very end."
+        },
+        {
+          "username": "BookThrills",
+          "rating": 4.7,
+          "comment": "A rollercoaster of suspense and twists."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 16.99
+        },
+        "hardcover": {
+          "price": 27.99
+        },
+        "ebook": {
+          "price": 14.99
+        }
+      },
+      "publishedDate": "2015-01-13"
+    },
+    {
+      "id": 10,
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "ratings": 4.9,
+      "featured": true,
+      "bestseller": true,
+      "price": 20.99,
+      "image": "assets/images/alchemist.jpg",
+      "description": "Santiago, a shepherd boy, embarks on a journey to discover his personal legend and fulfill his dreams. Paulo Coelho's philosophical novel explores destiny, fate, and the pursuit of one's passions.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-06-15",
+      "genre": "Philosophical Fiction",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "DreamSeeker",
+          "rating": 5,
+          "comment": "A profound and inspiring tale of self-discovery."
+        },
+        {
+          "username": "BookPhilosopher",
+          "rating": 4.8,
+          "comment": "Coelho's writing is both lyrical and thought-provoking."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 18.99
+        },
+        "hardcover": {
+          "price": 31.99
+        },
+        "ebook": {
+          "price": 15.99
+        }
+      },
+      "publishedDate": "1988-09-01"
+    },
+  
+    {
+      "id": 11,
+      "bookName": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "ratings": 4.8,
+      "featured": true,
+      "bestseller": true,
+      "price": 22.50,
+      "image": "assets/images/sapiens-f.jpg",
+      "description": "Harari explores the history of Homo sapiens, from the emergence of modern humans to the present day. A thought-provoking journey that examines the impact of culture, biology, and history on human development.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-07-01",
+      "genre": "Non-Fiction",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "HistoryBuff",
+          "rating": 4.8,
+          "comment": "Fascinating and well-researched."
+        },
+        {
+          "username": "BookExplorer",
+          "rating": 5,
+          "comment": "A captivating journey through human history."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 19.99
+        },
+        "hardcover": {
+          "price": 29.99
+        },
+        "ebook": {
+          "price": 15.99
+        }
+      },
+      "publishedDate": "2014-02-10"
+    },
+    {
+      "id": 12,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "ratings": 4.6,
+      "featured": false,
+      "bestseller": true,
+      "price": 18.99,
+      "image": "assets/images/the-silent-patient.jpg",
+      "description": "A psychological thriller that follows the mysterious case of Alicia Berenson, a painter who shoots her husband and then stops speaking. Gripping and filled with unexpected twists.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-07-15",
+      "genre": "Fiction",
+      "newArrival": true,
+      "ebooksAvailable": false,
+      "audiobooksAvailable": false,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "ThrillerAddict",
+          "rating": 4.5,
+          "comment": "Kept me on the edge of my seat!"
+        },
+        {
+          "username": "MysteryFan",
+          "rating": 4.7,
+          "comment": "A mind-bending and suspenseful read."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 16.99
+        },
+        "hardcover": {
+          "price": 27.99
+        },
+        "ebook": {
+          "price": 14.99
+        }
+      },
+      "publishedDate": "2019-02-05"
+    },
+    {
+      "id": 13,
+      "bookName": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "ratings": 4.7,
+      "featured": false,
+      "bestseller": true,
+      "price": 20.99,
+      "image": "assets/images/the-power-of-habits.jpg",
+      "description": "Duhigg explores the science behind why habits exist and how they can be changed. A compelling exploration of the role of habits in individual and societal success.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-01",
+      "genre": "Educational",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable":false,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "HabitChanger",
+          "rating": 4.8,
+          "comment": "Insightful and practical insights."
+        },
+        {
+          "username": "MindfulReader",
+          "rating": 4.5,
+          "comment": "Changed the way I think about habits."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 18.99
+        },
+        "hardcover": {
+          "price": 32.99
+        },
+        "ebook": {
+          "price": 15.99
+        }
+      },
+      "publishedDate": "2012-03-06"
+    },
+    {
+      "id": "16az",
+      "bookName": "The Tale of Magical Friends",
+      "author": "Emma Stevens",
+      "ratings": 4.8,
+      "featured": true,
+      "bestseller": false,
+      "price": 12.99,
+      "image": "assets/images/magical-adventure.jpg",
+      "description": "Embark on a whimsical adventure with a group of magical friends as they explore enchanted lands and learn valuable life lessons.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-09-10",
+      "genre": "Children's Books",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 10,
+      "reviews": [
+        {
+          "username": "ImaginationExplorer",
+          "rating": 4.9,
+          "comment": "Captivating and heartwarming for young readers."
+        },
+        {
+          "username": "ParentApproved",
+          "rating": 4.7,
+          "comment": "A delightful tale that sparks creativity."
+        }
+      ],
+      "formats": {
+        "hardcover": {
+          "price": 18.99
+        },
+        "ebook": {
+          "price": 9.99
+        }
+      },
+      "publishedDate": "2025-05-15"
+    },
+    
+    {
+      "id": 14,
+      "bookName": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "ratings": 4.6,
+      "featured": false,
+      "bestseller": true,
+      "price": 19.50,
+      "image": "assets/images/the-7-habits-of-higly-effective-people.jpg",
+      "description": "Covey presents a holistic approach to personal and professional effectiveness through seven habits. A timeless guide for personal development and success.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-15",
+      "genre": "Motivational",
+      "newArrival": false,
+      "ebooksAvailable": false,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "SuccessSeeker",
+          "rating": 4.7,
+          "comment": "Transformative and inspiring."
+        },
+        {
+          "username": "LifeChanger",
+          "rating": 5,
+          "comment": "A must-read for personal growth."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 17.99
+        },
+        "hardcover": {
+          "price": 29.99
+        },
+        "ebook": {
+          "price": 14.99
+        }
+      },
+      "publishedDate": "1989-08-15"
+    },
+    {
+      "id": 15,
+      "bookName": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "ratings": 4.5,
+      "featured": true,
+      "bestseller": false,
+      "price": 16.99,
+      "image": "assets/images/the-immortal-life-of-heriettta-lacks.jpg",
+      "description": "Skloot tells the story of Henrietta Lacks, whose cells were used for scientific research without her knowledge. The book explores ethical questions in medicine and the impact on Henrietta's family.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-01",
+      "genre": "Non-Fiction",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 0,
+      "reviews": [
+        {
+          "username": "MedicalEthicist",
+          "rating": 4.5,
+          "comment": "Raises important questions about medical ethics."
+        },
+        {
+          "username": "ReaderWithPurpose",
+          "rating": 4,
+          "comment": "A compelling blend of science and humanity."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 14.99
+        },
+        "hardcover": {
+          "price": 24.99
+        },
+        "ebook": {
+          "price": 11.99
+        }
+      },
+      "publishedDate": "2010-02-02"
+    },
+    {
+      "id": "17az",
+      "bookName": "Adventures of the Little Explorer",
+      "author": "Sam Robinson",
+      "ratings": 4.6,
+      "featured": false,
+      "bestseller": true,
+      "price": 14.99,
+      "image": "assets/images/little-explorer.jpg",
+      "description": "Follow the journey of a curious little explorer who discovers the wonders of nature, friendship, and the joy of learning.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-10-02",
+      "genre": "Children's Books",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 15,
+      "reviews": [
+        {
+          "username": "AdventureSeeker",
+          "rating": 4.8,
+          "comment": "A charming story that sparks a sense of adventure."
+        },
+        {
+          "username": "ParentPerspective",
+          "rating": 4.5,
+          "comment": "Engaging and beautifully illustrated."
+        }
+      ],
+      "formats": {
+        "hardcover": {
+          "price": 20.99
+        },
+        "ebook": {
+          "price": 11.99
+        }
+      },
+      "publishedDate": "2025-07-20"
+    },
+    {
+      "id": "18az",
+      "bookName": "Whimsical Creatures and Their Tales",
+      "author": "Lily Johnson",
+      "ratings": 4.9,
+      "featured": true,
+      "bestseller": true,
+      "price": 16.99,
+      "image": "assets/images/whimscial-tales.jpg",
+      "description": "Discover a magical world filled with whimsical creatures, each with a unique story and valuable lessons for young readers.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-11-15",
+      "genre": "Children's Books",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 12,
+      "reviews": [
+        {
+          "username": "ImaginativeKids",
+          "rating": 5.0,
+          "comment": "A delightful collection that sparks imagination."
+        },
+        {
+          "username": "CreativeParenting",
+          "rating": 4.8,
+        "comment": "Engaging tales with beautifully illustrated creatures."
+      }
+      ],
+      "formats": {
+        "hardcover": {
+          "price": 22.99
+        },
+        "ebook": {
+          "price": 13.99
+        }
+      },
+      "publishedDate": "2025-09-05"
+    },
+    
+    
+    
+      {
+        "id": "1a",
+        "bookName": "The Glass Castle",
+        "author": "Jeanette Walls",
+        "ratings": 4.2,
+        "featured": false,
+        "bestseller": true,
+        "price": 14.99,
+        "image": "assets/images/the-glass-castle.jpg",
+        "description": "A memoir about resilience and redemption, recounting the author's unconventional and often difficult upbringing.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-06-20",
+        "genre": "Biography",
+        "newArrival": true,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": false,
+        "discount": 5,
+        "reviews": [
+          {
+            "username": "MemoirReader",
+            "rating": 4.0,
+            "comment": "An inspiring and moving story."
+          },
+          {
+            "username": "BookLover123",
+            "rating": 4.5,
+            "comment": "Captivating from start to finish."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 12.99
+          },
+          "hardcover": {
+            "price": 21.99
+          },
+          "ebook": {
+            "price": 10.99
+          }
+        },
+        "publishedDate": "2005-01-17"
+      },
+      {
+        "id": "19az",
+        "bookName": "The Magical Circus Adventure",
+        "author": "David Turner",
+        "ratings": 4.7,
+        "featured": false,
+        "bestseller": true,
+        "price": 13.99,
+        "image": "assets/images/magical-circus-adventure.jpg",
+        "description": "Join a group of young friends as they embark on a magical adventure in a whimsical circus, filled with excitement, friendship, and surprises.",
+        "languageAvailable": "English",
+        "shippingDate": "2025-12-10",
+        "genre": "Children's Books",
+        "newArrival": true,
+        "ebooksAvailable": false,
+        "audiobooksAvailable": true,
+        "discount": 10,
+        "reviews": [
+          {
+            "username": "CircusFan",
+            "rating": 4.6,
+            "comment": "A delightful and heartwarming tale for kids."
+          },
+          {
+            "username": "ParentReview",
+            "rating": 4.8,
+            "comment": "Colorful illustrations and an enchanting storyline."
+          }
+        ],
+        "formats": {
+          "hardcover": {
+            "price": 17.99
+          },
+          "audiobook": {
+            "price": 11.99
+          }
+        },
+        "publishedDate": "2025-08-25"
+      },
+      
+      {
+        "id": "2a",
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "ratings": 4.8,
+        "featured": true,
+        "bestseller": false,
+        "price": 16.99,
+        "image": "assets/images/educated.jpg",
+        "description": "A memoir about a woman who grows up in a strict and abusive household in rural Idaho but eventually escapes to learn about the wider world through education.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-07-02",
+        "genre": "Biography",
+        "newArrival": false,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": true,
+        "discount": 8,
+        "reviews": [
+          {
+            "username": "Bookworm55",
+            "rating": 4.9,
+            "comment": "Absolutely incredible journey."
+          },
+          {
+            "username": "ReadsALot",
+            "rating": 4.7,
+            "comment": "A must-read for everyone."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 14.99
+          },
+          "hardcover": {
+            "price": 23.99
+          },
+          "ebook": {
+            "price": 12.99
+          }
+        },
+        "publishedDate": "2018-02-20"
+      },
+      {
+        "id": "20az",
+        "bookName": "The Little Gardener's ABC",
+        "author": "Sophie Martinez",
+        "ratings": 4.5,
+        "featured": true,
+        "bestseller": false,
+        "price": 11.99,
+        "image": "assets/images/little-gardener.jpg",
+        "description": "Follow a little gardener as they explore the alphabet through the enchanting world of gardening, filled with plants, insects, and joy.",
+        "languageAvailable": "English",
+        "shippingDate": "2026-01-08",
+        "genre": "Children's Books",
+        "newArrival": true,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": false,
+        "discount": 15,
+        "reviews": [
+          {
+            "username": "GardenExplorer",
+            "rating": 4.7,
+            "comment": "An educational and delightful ABC book for children."
+          },
+          {
+            "username": "ParentGardener",
+            "rating": 4.4,
+            "comment": "Beautifully illustrated and engaging for young readers."
+          }
+        ],
+        "formats": {
+          "hardcover": {
+            "price": 14.99
+          },
+          "ebook": {
+            "price": 9.99
+          }
+        },
+        "publishedDate": "2025-10-15"
+      },
+      
+    
+    {
+      "id": 16,
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": true,
+      "price": 21.99,
+      "image": "assets/images/educated.jpg",
+      "description": "A memoir recounting Westover's journey from growing up in a strict household in rural Idaho with no formal education to earning a PhD from Cambridge University. A powerful story of self-discovery and education.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-15",
+      "genre": "Educational",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "MemoirReader",
+          "rating": 4.8,
+          "comment": "A testament to the power of education."
+        },
+        {
+          "username": "BookEducator",
+          "rating": 5,
+          "comment": "Inspiring and thought-provoking."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 18.99
+        },
+        "hardcover": {
+          "price": 32.99
+        },
+        "ebook": {
+          "price": 15.99
+        }
+      },
+      "publishedDate": "2018-02-20"
+    },
+    {
+      "id": 17,
+      "bookName": "Atomic Habits",
+      "author": "James Clear",
+      "ratings": 4.9,
+      "featured": false,
+      "bestseller": false,
+      "price": 24.99,
+      "image": "assets/images/atomic-habits.jpg",
+      "description": "Clear explores the science of habits and how tiny changes can lead to remarkable results. A practical guide to understanding and transforming habits for personal and professional success.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-10-01",
+      "genre": "Educational",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 10,
+      "reviews": [
+        {
+          "username": "HabitMaster",
+          "rating": 5,
+          "comment": "A game-changer for personal development."
+        },
+        {
+          "username": "MindfulReader",
+          "rating": 4.8,
+          "comment": "Practical and insightful advice."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 22.99
+        },
+        "hardcover": {
+          "price": 34.99
+        },
+        "ebook": {
+          "price": 18.99
+        }
+      },
+      "publishedDate": "2018-10-16"
+    },
+    {
+      "id": 18,
+      "bookName": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "ratings": 4.7,
+      "featured": false,
+      "bestseller": true,
+      "price": 23.50,
+      "image": "assets/images/thinking-fast-and-slow.jpg",
+      "description": "Kahneman, a Nobel Prize-winning psychologist, explores the two systems that drive the way we think: the fast, intuitive system and the slow, deliberate system. A groundbreaking exploration of the mind's processes.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-10-15",
+      "genre": "Non-Fiction",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "PsychologyEnthusiast",
+          "rating": 4.7,
+          "comment": "Fascinating insights into human cognition."
+        },
+        {
+          "username": "CognitiveReader",
+          "rating": 5,
+          "comment": "A must-read for anyone interested in the mind."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 19.99
+        },
+        "hardcover": {
+          "price": 29.99
+        },
+        "ebook": {
+          "price": 16.99
+        }
+      },
+      "publishedDate": "2011-10-25"
+    },
+    {
+      "id": 19,
+      "bookName": "Born a Crime",
+      "author": "Trevor Noah",
+      "ratings": 4.8,
+      "featured": true,
+      "bestseller": false,
+      "price": 19.99,
+      "image": "assets/images/born-a-crime.jpg",
+      "description": "Comedian Trevor Noah shares his remarkable and often humorous journey growing up in apartheid-era South Africa. A captivating memoir that reflects on race, identity, and resilience.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-11-01",
+      "genre": "Non-Fiction",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "ComedyFan",
+          "rating": 4.8,
+          "comment": "A compelling mix of humor and heart."
+        },
+        {
+          "username": "MemoirLover",
+          "rating": 5,
+          "comment": "Noah's storytelling is both poignant and entertaining."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 16.99
+        },
+        "hardcover": {
+          "price": 26.99
+        },
+        "ebook": {
+          "price": 13.99
+        }
+      },
+      "publishedDate": "2016-11-15"
+    },
+    {
+      "id": 20,
+      "bookName": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "ratings": 4.6,
+      "featured": false,
+      "bestseller": true,
+      "price": 17.99,
+      "image": "assets/images/the-subtle-art-of-not-giving-a-fuck.jpg",
+      "description": "Manson challenges conventional self-help advice, advocating for embracing life's challenges and choosing what truly matters. A no-nonsense guide to living a meaningful and authentic life.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-11-01",
+      "genre": "Non-Fiction",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "ComedyFan",
+          "rating": 4.8,
+          "comment": "A compelling mix of humor and heart."
+        },
+        {
+          "username": "MemoirLover",
+          "rating": 5,
+          "comment": "Noah's storytelling is both poignant and entertaining."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 16.99
+        },
+        "hardcover": {
+          "price": 26.99
+        },
+        "ebook": {
+          "price": 13.99
+        }
+      },
+      "publishedDate": "2016-11-15"},
+      {
+        "id": "26az",
+        "bookName": "The Jungle Adventure",
+        "author": "David Robinson",
+        "ratings": 4.7,
+        "featured": false,
+        "bestseller": true,
+        "price": 14.99,
+        "image": "assets/images/jungle-adventure.jpg",
+        "description": "Embark on an exciting journey through the heart of the jungle, encountering wild animals, hidden treasures, and the spirit of exploration.",
+        "languageAvailable": "English",
+        "shippingDate": "2026-08-15",
+        "genre": "Jungle Books",
+        "newArrival": true,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": false,
+        "discount": 10,
+        "reviews": [
+          {
+            "username": "AdventureSeeker",
+            "rating": 4.6,
+            "comment": "A thrilling adventure that captures the essence of the jungle."
+          },
+          {
+            "username": "NatureExplorer",
+            "rating": 4.8,
+            "comment": "Engaging and educational, with vibrant illustrations."
+          }
+        ],
+        "formats": {
+          "hardcover": {
+            "price": 17.99
+          },
+          "ebook": {
+            "price": 11.99
+          }
+        },
+        "publishedDate": "2026-07-30"
+      },
+      
+  
+  
+    {
+      "id": 21,
+      "bookName": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "ratings": 4.9,
+      "featured": true,
+      "bestseller": true,
+      "price": 24.99,
+      "image": "assets/images/hp-1.jpg",
+      "description": "Harry Potter, an orphaned boy, discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry. He unravels mysteries and faces dark forces while forging lasting friendships.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-01",
+      "genre": "Fantasy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "PotterFanatic",
+          "rating": 5,
+          "comment": "A magical start to an enchanting series."
+        },
+        {
+          "username": "WizardReader",
+          "rating": 4.8,
+          "comment": "Captivating and filled with wonder."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 21.99
+        },
+        "hardcover": {
+          "price": 34.99
+        },
+        "ebook": {
+          "price": 19.99
+        }
+      },
+      "publishedDate": "1997-06-26"
+    },
+    {
+      "id":22,
+      "bookName": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": true,
+      "price": 26.99,
+      "image": "assets/images/hp-2.jpg",
+      "description": "In his second year at Hogwarts, Harry uncovers a mysterious chamber and faces a new evil. With the help of friends and magical creatures, he strives to save the school from peril.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-15",
+      "genre": "Fantasy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "MagicalMystery",
+          "rating": 4.8,
+          "comment": "An engaging sequel with surprises."
+        },
+        {
+          "username": "PotterEnthusiast",
+          "rating": 4.7,
+          "comment": "Rowling's world-building is extraordinary."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 24.99
+        },
+        "hardcover": {
+          "price": 39.99
+        },
+        "ebook": {
+          "price": 22.99
+        }
+      },
+      "publishedDate": "1998-07-02"
+    },
+    {
+      "id": 23,
+      "bookName": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J.K. Rowling",
+      "ratings": 4.9,
+      "featured": false,
+      "bestseller": false,
+      "price": 28.99,
+      "image": "assets/images/hp-3.jpg",
+      "description": "As Harry returns to Hogwarts, he learns about the dangerous prisoner Sirius Black. Mysteries unfold, revealing ties to his past. The wizarding world becomes even more complex and intriguing.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-01",
+      "genre": "Fantasy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "WizardReader23",
+          "rating": 5,
+          "comment": "A rollercoaster of emotions and revelations."
+        },
+        {
+          "username": "MagicalExplorer",
+          "rating": 4.9,
+          "comment": "Rowling's storytelling is pure magic."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 26.99
+        },
+        "hardcover": {
+          "price": 44.99
+        },
+        "ebook": {
+          "price": 24.99
+        }
+      },
+      "publishedDate": "1999-07-08"
+    },
+    {
+      "id": 24,
+      "bookName": "Harry Potter and the Goblet of Fire",
+      "author": "J.K. Rowling",
+      "ratings": 4.9,
+      "featured": false,
+      "bestseller": false,
+      "price": 29.99,
+      "image": "assets/images/hp-4.jpg",
+      "description": "Harry is unexpectedly entered into the Triwizard Tournament, a dangerous magical competition. Dark forces are at play, and Voldemort's return becomes imminent, leading to a turning point in the series.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-15",
+      "genre": "Fantasy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "WizardChampion",
+          "rating": 5,
+          "comment": "A thrilling installment with unexpected twists."
+        },
+        {
+          "username": "MagicalReviewer",
+          "rating": 4.8,
+          "comment": "Rowling keeps readers on the edge of their seats."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 26.99
+        },
+        "hardcover": {
+          "price": 44.99
+        },
+        "ebook": {
+          "price": 24.99
+        }
+      },
+      "publishedDate": "2000-07-08"
+    },
+    {
+      "id": 25,
+      "bookName": "Harry Potter and the Order of the Phoenix",
+      "author": "J.K. Rowling",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": false,
+      "price": 31.99,
+      "image": "assets/images/hp-5.jpg",
+      "description": "As Voldemort returns to power, Harry faces skepticism and challenges. The Order of the Phoenix forms to resist dark forces. The series takes a darker turn as secrets are revealed.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-10-01",
+      "genre": "Fantasy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "PhoenixRising",
+          "rating": 4.8,
+          "comment": "A pivotal and emotionally charged installment."
+        },
+        {
+          "username": "WizardInsider",
+          "rating": 4.7,
+          "comment": "Rowling skillfully deepens the plot and characters."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 28.99
+        },
+        "hardcover": {
+          "price": 49.99
+        },
+        "ebook": {
+          "price": 26.99
+        }
+      },
+      "publishedDate": "2003-06-21"
+    },
+    {
+      "id": 26,
+      "bookName": "Harry Potter and the Half-Blood Prince",
+      "author": "J.K. Rowling",
+      "ratings": 4.9,
+      "featured": false,
+      "bestseller": false,
+      "price": 34.99,
+      "image": "assets/images/hp-6.jpg",
+      "description": "As Harry learns about Voldemort's past, alliances shift, and tragedies occur. The wizarding world prepares for a final confrontation. Love, sacrifice, and betrayal shape this penultimate chapter.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-10-15",
+      "genre": "Fantasy",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "HalfBloodReader",
+          "rating": 5,
+          "comment": "A masterfully crafted story with unexpected revelations."
+        },
+        {
+          "username": "MagicalScribe",
+          "rating": 4.9,
+          "comment": "Rowling weaves an intricate and captivating narrative."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 31.99
+        },
+        "hardcover": {
+          "price": 54.99
+        },
+        "ebook": {
+          "price": 29.99
+        }
+      },
+      "publishedDate": "2005-07-16"
+    },
+    {
+      "id": 27,
+      "bookName": "Harry Potter and the Deathly Hallows",
+      "author": "J.K. Rowling",
+      "ratings": 4.9,
+      "featured": false,
+      "bestseller": true,
+      "price": 39.99,
+      "image": "assets/images/hp-7.jpg",
+      "description": "In the final showdown, Harry faces Voldemort in a battle of good versus evil. The Deathly Hallows come into play, and sacrifices are made. The epic conclusion to the Harry Potter series.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-11-01",
+      "genre": "Fantasy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 10,
+      "reviews": [
+        {
+          "username": "HallowsReader",
+          "rating": 5,
+          "comment": "A fitting and emotional end to an incredible journey."
+        },
+        {
+          "username": "PotterFinale",
+          "rating": 4.8,
+          "comment": "Rowling delivers a satisfying and powerful conclusion."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 36.99
+        },
+        "hardcover": {
+          "price": 64.99
+        },
+        "ebook": {
+          "price": 34.99
+        }
+      },
+      "publishedDate": "2007-07-21"
+    },
+    {
+      "id": 28,
+      "bookName": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": false,
+      "price": 29.99,
+      "image": "assets/images/a-game-of-thrones.jpg",
+      "description": "In the Seven Kingdoms, noble families vie for the Iron Throne. Political intrigue, alliances, and betrayals unfold against a backdrop of impending winter and mystical threats beyond the Wall.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-01",
+      "genre": "Epic Fantasy",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "ThronesEnthusiast",
+          "rating": 5,
+          "comment": "A rich and intricate tale of power and treachery."
+        },
+        {
+          "username": "FantasyRealm",
+          "rating": 4.7,
+          "comment": "Martin's world-building is unparalleled."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 26.99
+        },
+        "hardcover": {
+          "price": 44.99
+        },
+        "ebook": {
+          "price": 24.99
+        }
+      },
+      "publishedDate": "1996-08-06"
+    },
+    {
+      "id": 29,
+      "bookName": "A Clash of Kings",
+      "author": "George R.R. Martin",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": false,
+      "price": 31.99,
+      "image": "assets/images/a-clash-of-kings.jpg",
+      "description": "The War of the Five Kings unfolds as claimants to the Iron Throne clash. Meanwhile, threats from the East and the North pose challenges to the realm. The game of thrones intensifies.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-15",
+      "genre": "Epic Fantasy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "KingsLandingReader",
+          "rating": 4.9,
+          "comment": "A complex and compelling continuation of the series."
+        },
+        {
+          "username": "RealmWatcher",
+          "rating": 4.8,
+          "comment": "Martin's storytelling keeps readers on edge."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 28.99
+        },
+        "hardcover": {
+          "price": 49.99
+        },
+        "ebook": {
+          "price": 26.99
+        }
+      },
+      "publishedDate": "1998-11-16"
+    },
+    {
+      "id": 30,
+      "bookName": "A Storm of Swords",
+      "author": "George R.R. Martin",
+      "ratings": 4.9,
+      "featured": false,
+      "bestseller": false,
+      "price": 34.99,
+      "image": "assets/images/a-storm-of-swords.jpg",
+      "description": "As war ravages the Seven Kingdoms, alliances shift, and characters face moral dilemmas. Intrigue and brutality escalate, and the fate of Westeros hangs in the balance.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-01",
+      "genre": "Epic Fantasy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "SwordSagaReader",
+          "rating": 5,
+          "comment": "Martin's mastery of character arcs is astonishing."
+        },
+        {
+          "username": "FantasyConqueror",
+          "rating": 4.9,
+          "comment": "A thrilling and unpredictable journey through Westeros."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 31.99
+        },
+        "hardcover": {
+          "price": 54.99
+        },
+        "ebook": {
+          "price": 29.99
+        }
+      },
+      "publishedDate": "2000-08-08"
+    },
+    {
+      "id": 31,
+      "bookName": "A Feast for Crows",
+      "author": "George R.R. Martin",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": false,
+      "price": 29.99,
+      "image": "assets/images/a-feast-for-crows.jpg",
+      "description": "The aftermath of the War of the Five Kings sees power struggles across Westeros. New characters emerge, and the realm grapples with the consequences of past decisions.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-15",
+      "genre": "Epic Fantasy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "CrowsWatcher",
+          "rating": 4.7,
+          "comment": "A slower pace but essential for the series."
+        },
+        {
+          "username": "FantasyEpic",
+          "rating": 4.8,
+          "comment": "Martin's world-building remains impressive."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 26.99
+        },
+        "hardcover": {
+          "price": 44.99
+        },
+        "ebook": {
+          "price": 24.99
+        }
+      },
+      "publishedDate": "2005-11-08"
+    },
+    {
+      "id": 32,
+      "bookName": "A Dance with Dragons",
+      "author": "George R.R. Martin",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": false,
+      "price": 31.99,
+      "image": "assets/images/a-dance-with-dragons.jpg",
+      "description": "As conflicts intensify, characters face choices that shape the destiny of Westeros. The battle for power and survival reaches a climax in this thrilling installment.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-10-01",
+      "genre": "Epic Fantasy",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "DragonsConqueror",
+          "rating": 4.9,
+          "comment": "An epic continuation with dragons and politics."
+        },
+        {
+          "username": "WesterosSpectator",
+          "rating": 4.8,
+          "comment": "Martin keeps readers hooked with his narrative."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 28.99
+        },
+        "hardcover": {
+          "price": 49.99
+        },
+        "ebook": {
+          "price": 26.99
+        }
+      },
+      "publishedDate": "2011-07-12"
+    },
+    {
+      "id": 33,
+      "bookName": "The Winds of Winter",
+      "author": "George R.R. Martin",
+      "ratings": null,
+      "featured": true,
+      "bestseller": false,
+      "price": 20.45,
+      "image": "assets/images/winds-of-winter.jpg",
+      "description": "The highly anticipated forthcoming installment in the series, promising new twists, revelations, and battles as the fate of Westeros hangs in the balance.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-10-15",
+      "genre": "Epic Fantasy",
+      "newArrival": false,
+      "ebooksAvailable": false,
+      "audiobooksAvailable": false,
+      "discount": null,
+      "reviews": [],
+      "formats": {
+        "paperback": {
+          "price": null
+        },
+        "hardcover": {
+          "price": null
+        },
+        "ebook": {
+          "price": null
+        }
+      },
+      "publishedDate": null
+    },
+    {
+      "id": 34,
+      "bookName": "A Dream of Spring",
+      "author": "George R.R. Martin",
+      "ratings": null,
+      "featured": true,
+      "bestseller": false,
+      "price": 25.55,
+      "image": "assets/images/dream-of-spring.jpg",
+      "description": "The anticipated conclusion to the epic series, promising resolutions to the complex web of characters and plots in the fight for the Iron Throne.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-11-01",
+      "genre": "Epic Fantasy",
+      "newArrival": false,
+      "ebooksAvailable": false,
+      "audiobooksAvailable": false,
+      "discount": null,
+      "reviews": [],
+      "formats": {
+        "paperback": {
+          "price": null
+        },
+        "hardcover": {
+          "price": null
+        },
+        "ebook": {
+          "price": null
+        }
+      },
+      "publishedDate": null
+    },
+      {
+        "id": "3a",
+        "bookName": "Steve Jobs",
+        "author": "Walter Isaacson",
+        "ratings": 4.5,
+        "featured": true,
+        "bestseller": true,
+        "price": 19.99,
+        "image": "assets/images/steve-jobs.jpg",
+        "description": "A biography of Steve Jobs, co-founder of Apple Inc., offering insights into his life, personality, and the technology industry.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-08-10",
+        "genre": "Biography",
+        "newArrival": false,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": true,
+        "discount": 10,
+        "reviews": [
+          {
+            "username": "TechEnthusiast",
+            "rating": 4.8,
+            "comment": "Fascinating look at a tech visionary."
+          },
+          {
+            "username": "BookNerd123",
+            "rating": 4.3,
+            "comment": "Well-written and informative."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 17.99
+          },
+          "hardcover": {
+            "price": 27.99
+          },
+          "ebook": {
+            "price": 15.99
+          }
+        },
+        "publishedDate": "2011-10-24"
+      },
+      {
+        "id":"4a",
+        "bookName": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "ratings": 4.7,
+        "featured": false,
+        "bestseller": true,
+        "price": 15.99,
+        "image": "assets/images/the-diary-of-young-girl-f.jpg",
+        "description": "The diary of Anne Frank, a Jewish girl hiding from the Nazis during World War II, providing a poignant and firsthand account of the Holocaust.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-09-05",
+        "genre": "Biography",
+        "newArrival": false,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": false,
+        "discount": 7,
+        "reviews": [
+          {
+            "username": "HistoryBuff",
+            "rating": 4.6,
+            "comment": "A powerful and heartbreaking read."
+          },
+          {
+            "username": "BookWanderer",
+            "rating": 4.8,
+            "comment": "An important historical document."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 13.99
+          },
+          "hardcover": {
+            "price": 22.99
+          },
+          "ebook": {
+            "price": 11.99
+          }
+        },
+        "publishedDate": "1947-06-25"
+      },
+      {
+        "id": "5a",
+        "bookName": "Malcolm X: A Life of Reinvention",
+        "author": "Manning Marable",
+        "ratings": 4.4,
+        "featured": false,
+        "bestseller": false,
+        "price": 21.99,
+        "image": "assets/images/malcolm.jpg",
+        "description": "A comprehensive biography of Malcolm X, exploring his transformation from a street hustler to a prominent civil rights leader.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-10-18",
+        "genre": "Biography",
+        "newArrival": true,
+        "ebooksAvailable": false,
+        "audiobooksAvailable": true,
+        "discount": 12,
+        "reviews": [
+          {
+            "username": "SocialJusticeAdvocate",
+            "rating": 4.5,
+            "comment": "A necessary and enlightening read."
+          },
+          {
+            "username": "BookExplorer",
+            "rating": 4.3,
+            "comment": "Detailed and thought-provoking."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 19.99
+          },
+          "hardcover": {
+            "price": 29.99
+          },
+          "ebook": {
+            "price": 17.99
+          }
+        },
+        "publishedDate": "2011-04-04"
+      },
+      {
+        "id": "27az",
+        "bookName": "The Lost World",
+        "author": "Emma Turner",
+        "ratings": 4.9,
+        "featured": true,
+        "bestseller": false,
+        "price": 16.99,
+        "image": "assets/images/lost-world.jpg",
+        "description": "Discover the secrets of a hidden world within the jungle, where ancient creatures and mysterious landscapes await brave explorers.",
+        "languageAvailable": "English",
+        "shippingDate": "2026-09-25",
+        "genre": "Jungle Books",
+        "newArrival": true,
+        "ebooksAvailable": false,
+        "audiobooksAvailable": true,
+        "discount": 12,
+        "reviews": [
+          {
+            "username": "ExplorerExtraordinaire",
+            "rating": 5.0,
+            "comment": "A mesmerizing journey into the unknown, filled with wonder."
+          },
+          {
+            "username": "AdventureEnthusiast",
+            "rating": 4.8,
+            "comment": "Captivating storytelling with vivid descriptions."
+          }
+        ],
+        "formats": {
+          "hardcover": {
+            "price": 19.99
+          },
+          "audiobook": {
+            "price": 13.99
+          }
+        },
+        "publishedDate": "2026-09-10"
+      },
+      
+      {
+        "id": "6a",
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "ratings": 4.9,
+        "featured": true,
+        "bestseller": true,
+        "price": 24.99,
+        "image": "assets/images/the-becoming.jpg",
+        "description": "The memoir of Michelle Obama, the former First Lady of the United States, providing insights into her life, experiences, and advocacy.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-11-12",
+        "genre": "Biography",
+        "newArrival": true,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": true,
+        "discount": 15,
+        "reviews": [
+          {
+            "username": "InspiredReader",
+            "rating": 5.0,
+            "comment": "Empowering and beautifully written."
+          },
+          {
+            "username": "BookFanatic",
+            "rating": 4.8,
+            "comment": "A must-read for everyone."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 22.99
+          },
+          "hardcover": {
+            "price": 34.99
+          },
+          "ebook": {
+            "price": 20.99
+          }
+        },
+        "publishedDate": "2018-11-13"
+      },
+      {
+        "id": "7a",
+        "bookName": "The Wright Brothers",
+        "author": "David McCullough",
+        "ratings": 4.6,
+        "featured": false,
+        "bestseller": true,
+        "price": 17.99,
+        "image": "assets/images/the-wright-brothers.jpg",
+        "description": "A biography of Orville and Wilbur Wright, pioneers of aviation, chronicling their journey to invent and build the world's first successful powered aircraft.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-12-03",
+        "genre": "Biography",
+        "newArrival": false,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": false,
+        "discount": 8,
+        "reviews": [
+          {
+            "username": "AviationEnthusiast",
+            "rating": 4.7,
+            "comment": "A captivating exploration of aviation history."
+          },
+          {
+            "username": "BookFlight",
+            "rating": 4.5,
+            "comment": "Well-researched and engaging."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 15.99
+          },
+          "hardcover": {
+            "price": 25.99
+          },
+          "ebook": {
+            "price": 13.99
+          }
+        },
+        "publishedDate": "2015-05-05"
+      },
+    
+    
+    {
+      "id": 35,
+      "bookName": "Angels & Demons",
+      "author": "Dan Brown",
+      "ratings": 4.7,
+      "featured": true,
+      "bestseller": true,
+      "price": 26.99,
+      "image": "assets/images/angels-and-demons.jpg",
+      "description": "Harvard professor Robert Langdon is drawn into a complex conspiracy involving the Illuminati. Racing against time, he must decipher ancient symbols to prevent a catastrophic event at the Vatican.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-01",
+      "genre": "Mystery",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "LangdonFanatic",
+          "rating": 4.8,
+          "comment": "A thrilling adventure with twists and turns."
+        },
+        {
+          "username": "SymbolSeeker",
+          "rating": 4.7,
+          "comment": "Brown's mastery of suspense shines in this novel."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 23.99
+        },
+        "hardcover": {
+          "price": 39.99
+        },
+        "ebook": {
+          "price": 21.99
+        }
+      },
+      "publishedDate": "2000-03-28"
+    },
+    {
+      "id": 36,
+      "bookName": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "ratings": 4.9,
+      "featured": false,
+      "bestseller": true,
+      "price": 29.99,
+      "image": "assets/images/the-da-vinci-code.jpg",
+      "description": "Langdon becomes entangled in a quest for the Holy Grail, unveiling secrets that challenge religious beliefs. A gripping journey filled with codes, symbols, and a relentless pursuit of truth.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-15",
+      "genre": "Thriller",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "GrailQuester",
+          "rating": 5,
+          "comment": "An intellectual thriller that captivates."
+        },
+        {
+          "username": "MysterySolver",
+          "rating": 4.9,
+          "comment": "Brown weaves history and mystery seamlessly."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 26.99
+        },
+        "hardcover": {
+          "price": 49.99
+        },
+        "ebook": {
+          "price": 24.99
+        }
+      },
+      "publishedDate": "2003-03-18"
+    },
+    {
+      "id": 37,
+      "bookName": "The Lost Symbol",
+      "author": "Dan Brown",
+      "ratings": 4.8,
+      "featured": true,
+      "bestseller": true,
+      "price": 31.99,
+      "image": "assets/images/the-lost-symbol.jpg",
+      "description": "Langdon is summoned to solve a mystery involving the secrets of Washington, D.C. Ancient wisdom and hidden symbols lead to a shocking revelation with global implications.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-01",
+      "genre": "Mystery",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "SymbolEnthusiast",
+          "rating": 4.8,
+          "comment": "A riveting blend of history and modern intrigue."
+        },
+        {
+          "username": "LangdonMysteries",
+          "rating": 4.7,
+          "comment": "Brown's storytelling keeps you hooked till the end."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 28.99
+        },
+        "hardcover": {
+          "price": 54.99
+        },
+        "ebook": {
+          "price": 26.99
+        }
+      },
+      "publishedDate": "2009-09-15"
+    },
+    {
+      "id": 38,
+      "bookName": "Inferno",
+      "author": "Dan Brown",
+      "ratings": 4.8,
+      "featured": true,
+      "bestseller": true,
+      "price": 29.99,
+      "image": "assets/images/inferno.jpg",
+      "description": "Langdon awakens with amnesia in Florence, Italy, facing a global threat inspired by Dante's Inferno. Racing against time, he unravels a deadly plot that could change the course of humanity.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-15",
+      "genre": "Mystery",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "InfernoExplorer",
+          "rating": 4.7,
+          "comment": "A captivating journey through art and history."
+        },
+        {
+          "username": "LangdonAdventures",
+          "rating": 4.8,
+          "comment": "Brown continues to deliver gripping narratives."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 26.99
+        },
+        "hardcover": {
+          "price": 44.99
+        },
+        "ebook": {
+          "price": 24.99
+        }
+      },
+      "publishedDate": "2013-05-14"
+    },
+    {
+      "id": 39,
+      "bookName": "Origin",
+      "author": "Dan Brown",
+      "ratings": 4.9,
+      "featured": false,
+      "bestseller": false,
+      "price": 31.99,
+      "image": "assets/images/origin.jpg",
+      "description": "Langdon explores the mysteries of human existence and the future of religion and science. The journey takes him to Spain in a quest for answers that could revolutionize the world.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-10-01",
+      "genre": "Mystery",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "OriginSeeker",
+          "rating": 4.9,
+          "comment": "Brown's latest is a thought-provoking adventure."
+        },
+        {
+          "username": "LangdonEnigma",
+          "rating": 4.8,
+          "comment": "A perfect blend of science, art, and intrigue."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 28.99
+        },
+        "hardcover": {
+          "price": 49.99
+        },
+        "ebook": {
+          "price": 26.99
+        }
+      },
+      "publishedDate": "2017-10-03"
+    },
+    {
+      "id": "25az",
+      "bookName": "The Little Detective Club",
+      "author": "Michael Brown",
+      "ratings": 4.9,
+      "featured": true,
+      "bestseller": true,
+      "price": 15.99,
+      "image": "assets/images/the-little-detective-club.jpg",
+      "description": "Join the Little Detective Club as they solve mysteries, discover clues, and teach young readers the importance of observation and teamwork.",
+      "languageAvailable": "English",
+      "shippingDate": "2026-06-25",
+      "genre": "Children's Books",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 12,
+      "reviews": [
+        {
+          "username": "YoungDetective",
+          "rating": 5.0,
+          "comment": "An exciting and educational adventure for young detectives."
+        },
+        {
+          "username": "ParentInvestigator",
+          "rating": 4.8,
+          "comment": "Cleverly written with engaging illustrations."
+        }
+      ],
+      "formats": {
+        "hardcover": {
+          "price": 19.99
+        },
+        "ebook": {
+          "price": 13.99
+        }
+      },
+      "publishedDate": "2026-06-10"
+    },
+    
+    
+    {
+      "id":40,
+      "bookName": "Inferno",
+      "author": "Dan Brown",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": false,
+      "price": 39.99,
+      "image": "assets/images/inferno.jpg",
+      "description": "Langdon awakens with amnesia in Florence, Italy, facing a global threat inspired by Dante's Inferno. Racing against time, he unravels a deadly plot that could change the course of humanity.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-11-01",
+      "genre": "Mystery",
+  "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 10,
+      "reviews": [
+        {
+          "username": "InfernoExplorer",
+          "rating": 4.9,
+          "comment": "A rollercoaster of twists and historical revelations."
+        }]},
+    {
+      "id": 41,
+      "bookName": "Meditations",
+      "author": "Marcus Aurelius",
+      "ratings": 4.9,
+      "featured": true,
+      "bestseller": true,
+      "price": 19.99,
+      "image": "assets/images/meditations.jpg",
+      "description": "A series of personal writings by the Roman Emperor, reflecting on Stoic philosophy and providing insights into the nature of life, virtue, and the human mind.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-01",
+      "genre": "Philosophy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "StoicReader",
+          "rating": 5,
+          "comment": "A timeless classic that offers wisdom for daily life."
+        },
+        {
+          "username": "PhilosopherMind",
+          "rating": 4.8,
+          "comment": "Marcus Aurelius' reflections are profoundly insightful."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 16.99
+        },
+        "hardcover": {
+          "price": 32.99
+        },
+        "ebook": {
+          "price": 14.99
+        }
+      },
+      "publishedDate": "180 AD"
+    },
+    {
+      "id": 42,
+      "bookName": "Being and Time",
+      "author": "Martin Heidegger",
+      "ratings": 4.7,
+      "featured": false,
+      "bestseller": true,
+      "price": 24.99,
+      "image": "assets/images/being and time.jpg",
+      "description": "Heidegger's groundbreaking work explores the nature of being, ontology, and the existential aspects of human existence, influencing existentialist philosophy.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-15",
+      "genre": "Philosophy",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "ExistentialExplorer",
+          "rating": 4.8,
+          "comment": "A challenging but rewarding exploration of existence."
+        },
+        {
+          "username": "HeideggerFan",
+          "rating": 4.7,
+          "comment": "A philosophical masterpiece that delves into profound questions."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 21.99
+        },
+        "hardcover": {
+          "price": 39.99
+        },
+        "ebook": {
+          "price": 19.99
+        }
+      },
+      "publishedDate": "1927"
+    },
+    {
+      "id": 43,
+      "bookName": "The Republic",
+      "author": "Plato",
+      "ratings": 4.8,
+      "featured": true,
+      "bestseller": true,
+      "price": 29.99,
+      "image": "assets/images/the-repulic.jpg",
+      "description": "Plato's influential dialogue explores justice, governance, and the nature of the soul. Socratic dialogues unfold as characters discuss the ideal state and individual virtues.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-01",
+      "genre": "Philosophy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "PhilosophicalDebater",
+          "rating": 4.9,
+          "comment": "A foundational work that remains relevant to political philosophy."
+        },
+        {
+          "username": "PlatonicIdealist",
+          "rating": 4.8,
+          "comment": "Plato's exploration of justice is thought-provoking and timeless."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 26.99
+        },
+        "hardcover": {
+          "price": 49.99
+        },
+        "ebook": {
+          "price": 27.99
+        }
+      },
+      "publishedDate": "380 BC"
+    },
+    {
+      "id": 44,
+      "bookName": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "ratings": 4.7,
+      "featured": false,
+      "bestseller": true,
+      "price": 26.99,
+      "image": "assets/images/beyond-good-and-evil.jpg",
+      "description": "Nietzsche challenges traditional morality and explores the concept of the 'will to power.' The work critiques societal values and encourages individual introspection.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-15",
+      "genre": "Philosophy",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "NietzscheFollower",
+          "rating": 4.7,
+          "comment": "A philosophical journey that questions fundamental beliefs."
+        },
+        {
+          "username": "WillToPowerReader",
+          "rating": 4.8,
+          "comment": "Nietzsche's ideas remain impactful and provocative."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 23.99
+        },
+        "hardcover": {
+          "price": 41.99
+        },
+        "ebook": {
+          "price": 22.99
+        }
+      },
+      "publishedDate": "1886"
+    },
+    {
+      "id": 45,
+      "bookName": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "ratings": 4.8,
+      "featured": true,
+      "bestseller": false,
+      "price": 31.99,
+      "image": "assets/images/the-prince.jpg",
+      "description": "Machiavelli's classic work on political philosophy and leadership. Examining the pursuit of power, it offers insights into statecraft and the nature of governance.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-10-01",
+      "genre": "Political Philosophy",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "PoliticalStrategist",
+          "rating": 4.9,
+          "comment": "A pragmatic guide to the realities of political leadership."
+        },
+        {
+          "username": "MachiavellianMind",
+          "rating": 4.8,
+          "comment": "Machiavelli's insights are timeless and thought-provoking."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 28.99
+        },
+        "hardcover": {
+          "price": 54.99
+        },
+        "ebook": {
+          "price": 27.99
+        }
+      },
+      "publishedDate": "1532"
+    },
+    {
+      "id": 46,
+      "bookName": "Critique of Pure Reason",
+      "author": "Immanuel Kant",
+      "ratings": 4.9,
+      "featured": false,
+      "bestseller": false,
+      "price": 34.99,
+      "image": "assets/images/critque-of-pure-reason.jpg",
+      "description": "Kant's foundational work in epistemology and metaphysics. Examining the limits of human knowledge, it explores the relationship between experience and reason.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-10-15",
+      "genre": "Philosophy",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "KantianPhilosopher",
+          "rating": 5,
+          "comment": "A profound exploration of the nature of human cognition."
+        },
+        {
+          "username": "ReasonSeeker",
+          "rating": 4.9,
+          "comment": "Kant's Critique remains a cornerstone of philosophical inquiry."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 31.99
+        },
+        "hardcover": {
+          "price": 59.99
+        },
+        "ebook": {
+          "price": 29.99
+        }
+      },
+      "publishedDate": "1781"
+    },
+    {
+      "id": 47,
+      "bookName": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": true,
+      "price": 39.99,
+      "image": "assets/images/thus-spake-zarathustra.jpg",
+      "description": "Nietzsche's philosophical novel presents the teachings of Zarathustra, addressing themes of the eternal recurrence, the will to power, and the Overman.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-11-01",
+      "genre": "Philosophy",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 10,
+      "reviews": [
+        {
+          "username": "NietzscheDisciple",
+          "rating": 4.9,
+          "comment": "A poetic and thought-provoking journey through Nietzsche's philosophy."
+        },
+        {
+          "username": "ZarathustraFollower",
+          "rating": 4.8,
+          "comment": "Nietzsche challenges and inspires with his literary masterpiece."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 36.99
+        },
+        "hardcover": {
+          "price": 64.99
+        },
+        "ebook": {
+          "price": 34.99
+        }
+      },
+      "publishedDate": "1883-1885"
+    },
+  
+  
+    {
+      "id": 49,
+      "bookName": "The Notebook",
+      "author": "Nicholas Sparks",
+      "ratings": 4.7,
+      "featured": false,
+      "bestseller": true,
+      "price": 24.99,
+      "image": "assets/images/the-notebook.jpg",
+      "description": "A heartwarming love story of Noah and Allie, spanning decades and overcoming obstacles. Nicholas Sparks weaves a tale of enduring love and poignant memories.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-15",
+      "genre": "Romance",
+      "newArrival": true,
+      "ebooksAvailable": false,
+      "audiobooksAvailable": true,
+      "discount": 15,
+      "reviews": [
+        {
+          "username": "RomanticSoul",
+          "rating": 4.8,
+          "comment": "Nicholas Sparks captures the essence of true, lasting love."
+        },
+        {
+          "username": "NotebookFanatic",
+          "rating": 4.7,
+          "comment": "A beautiful and emotional journey through the power of love."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 21.99
+        },
+        "hardcover": {
+          "price": 39.99
+        },
+        "ebook": {
+          "price": 19.99
+        }
+      },
+      "publishedDate": "1996-10-01"
+    },
+    {
+      "id": 50,
+      "bookName": "Outlander",
+      "author": "Diana Gabaldon",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": false,
+      "price": 29.99,
+      "image": "assets/images/outlander.jpg",
+      "description": "Claire Randall, a World War II nurse, is mysteriously transported to 18th-century Scotland. Amid adventure and danger, she finds a timeless love with Jamie Fraser.",
+      "languageAvailable": "Hindi",
+      "shippingDate": "2024-09-01",
+      "genre": "Historical Romance",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "TimeTravelRomance",
+          "rating": 4.9,
+          "comment": "Diana Gabaldon's blend of history and romance is spellbinding."
+        },
+        {
+          "username": "OutlanderFanatic",
+          "rating": 4.8,
+          "comment": "A captivating journey through time and love."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 26.99
+        },
+        "hardcover": {
+          "price": 49.99
+        },
+        "ebook": {
+          "price": 27.99
+        }
+      },
+      "publishedDate": "1991-06-01"
+    },
+    {
+      "id": "8ab",
+      "bookName": "The Joy of Cooking",
+      "author": "Irma S. Rombauer",
+      "ratings": 4.8,
+      "featured": true,
+      "bestseller": true,
+      "price": 29.99,
+      "image": "assets/images/joy-of-cooking.jpg",
+      "description": "A classic cookbook that has been a go-to guide for home cooks, offering a wide range of recipes and culinary tips.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-01-20",
+      "genre": "Food",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 10,
+      "reviews": [
+        {
+          "username": "CookingEnthusiast",
+          "rating": 4.9,
+          "comment": "A kitchen essential for every cook."
+        },
+        {
+          "username": "FoodieAdventure",
+          "rating": 4.7,
+          "comment": "Delicious recipes with clear instructions."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 27.99
+        },
+        "hardcover": {
+          "price": 39.99
+        },
+        "ebook": {
+          "price": 24.99
+        }
+      },
+      "publishedDate": "1931-11-30"
+    },
+    {
+      "id": "9ab",
+      "bookName": "Salt, Fat, Acid, Heat",
+      "author": "Samin Nosrat",
+      "ratings": 4.6,
+      "featured": false,
+      "bestseller": true,
+      "price": 24.99,
+      "image": "assets/images/salt-fat-acid-heat.jpg",
+      "description": "A guide that explores the essential elements of good cooking: salt, fat, acid, and heat, providing a fresh perspective on creating balanced and flavorful dishes.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-02-12",
+      "genre": "Food",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 12,
+      "reviews": [
+        {
+          "username": "CulinaryExplorer",
+          "rating": 4.5,
+          "comment": "Transformative and informative."
+        },
+        {
+          "username": "FlavorSeeker",
+          "rating": 4.8,
+          "comment": "A must-read for aspiring chefs."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 22.99
+        },
+        "hardcover": {
+          "price": 34.99
+        },
+        "ebook": {
+          "price": 19.99
+        }
+      },
+      "publishedDate": "2017-04-25"
+    },
+    {
+      "id": 51,
+      "bookName": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "ratings": 4.7,
+      "featured": true,
+      "bestseller": false,
+      "price": 26.99,
+      "image": "assets/images/romeo-and-juliet-f.jpg",
+      "description": "Shakespeare's tragic tale of young love, passion, and the feud between the Montagues and Capulets. Romeo and Juliet's love defies social barriers but faces tragic consequences.",
+      "languageAvailable": "French",
+      "shippingDate": "2024-09-15",
+      "genre": "Romance",
+      "newArrival": true,
+      "ebooksAvailable": false,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "ShakespeareEnthusiast",
+          "rating": 4.7,
+          "comment": "A timeless masterpiece that captures the intensity of young love."
+        },
+        {
+          "username": "RomeoAndJulietFan",
+          "rating": 4.8,
+          "comment": "Shakespeare's words create an unforgettable love story."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 23.99
+        },
+        "hardcover": {
+          "price": 41.99
+        },
+        "ebook": {
+          "price": 22.99
+        }
+      },
+      "publishedDate": "1597"
+    },
+    {
+      "id": 52,
+      "bookName": "Me Before You",
+      "author": "Jojo Moyes",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": true,
+      "price": 31.99,
+      "image": "assets/images/me-before-you.jpg",
+      "description": "A poignant love story between Louisa Clark and Will Traynor, exploring themes of life, choices, and the transformative power of love. Jojo Moyes crafts a touching narrative.",
+      "languageAvailable": "Spanish",
+      "shippingDate": "2024-10-01",
+      "genre": "Contemporary Romance",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 20,
+      "reviews": [
+        {
+          "username": "RomanceReader",
+          "rating": 4.9,
+          "comment": "Jojo Moyes' storytelling is heartwarming and emotional."
+        },
+        {
+          "username": "MeBeforeYouFan",
+          "rating": 4.8,
+          "comment": "A beautiful and thought-provoking exploration of love and life."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 28.99
+        },
+        "hardcover": {
+          "price": 54.99
+        },
+        "ebook": {
+          "price": 27.99
+        }
+      },
+      "publishedDate": "2012-12-31"
+    },
+    {
+      "id": "22aze",
+      "bookName": "The Starry Night Friends",
+      "author": "Daniel Lee",
+      "ratings": 4.7,
+      "featured": false,
+      "bestseller": true,
+      "price": 14.99,
+      "image": "assets/images/the-starry-night.jpg",
+      "description": "Join a group of adorable friends as they explore the wonders of the starry night, discovering the magic that lies beyond the twinkling lights.",
+      "languageAvailable": "English",
+      "shippingDate": "2026-03-20",
+      "genre": "Children's Books",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 10,
+      "reviews": [
+        {
+          "username": "StarryDreamer",
+          "rating": 4.6,
+          "comment": "A delightful bedtime story filled with charm and warmth."
+        },
+        {
+          "username": "ParentNighttime",
+          "rating": 4.8,
+          "comment": "Beautiful illustrations and a soothing narrative."
+        }
+      ],
+      "formats": {
+        "hardcover": {
+          "price": 17.99
+        },
+        "ebook": {
+          "price": 11.99
+        }
+      },
+      "publishedDate": "2026-02-15"
+    },
+    
+    {
+      "id": 53,
+      "bookName": "The Fault in Our Stars",
+      "author": "John Green",
+      "ratings": 4.9,
+      "featured": true,
+      "bestseller": true,
+      "price": 34.99,
+      "image": "assets/images/the-fault-in-our-stars.jpg",
+      "description": "Hazel Grace Lancaster and Augustus Waters embark on a poignant journey, navigating love and loss while dealing with the challenges of illness. John Green crafts a powerful narrative.",
+      "languageAvailable": "Hindi",
+      "shippingDate": "2024-10-15",
+      "genre": "Young Adult Romance",
+      "newArrival": true,
+      "ebooksAvailable": false,
+      "audiobooksAvailable": true,
+      "discount": 15,
+      "reviews": [
+        {
+          "username": "GreenFanatic",
+          "rating": 5,
+          "comment": "John Green captures the raw beauty of love amidst adversity."
+        },
+        {
+          "username": "FaultInOurStarsReader",
+          "rating": 4.9,
+          "comment": "A heartwrenching and beautifully written love story."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 31.99
+        },
+        "hardcover": {
+          "price": 59.99
+        },
+        "ebook": {
+          "price": 29.99
+        }
+      },
+      "publishedDate": "2012-01-10"
+    },
+    {
+      "id": 54,
+      "bookName": "Eleanor Oliphant Is Completely Fine",
+      "author": "Gail Honeyman",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": true,
+      "price": 39.99,
+      "image": "assets/images/eleanor-oliphant-is-completely-fine.jpg",
+      "description": "Eleanor Oliphant's life takes an unexpected turn as she develops feelings for a musician. Gail Honeyman's novel explores the complexities of human connection and love.",
+      "languageAvailable": "French",
+      "shippingDate": "2024-11-01",
+      "genre": "Contemporary Romance",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 25,
+      "reviews": [
+        {
+          "username": "RomanceExplorer",
+          "rating": 4.9
+        }]},
+  
+  
+  
+    {
+      "id": 55,
+      "bookName": "The Guns of August",
+      "author": "Barbara W. Tuchman",
+      "ratings": 4.8,
+      "featured": true,
+      "bestseller": false,
+      "price": 24.99,
+      "image": "assets/images/the-guns-of-august.jpg",
+      "description": "A detailed account of the events leading up to World War I, exploring the political and military decisions that shaped the course of history.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-01",
+      "genre": "Non-Fiction History",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 10,
+      "reviews": [
+        {
+          "username": "HistoryEnthusiast",
+          "rating": 4.9,
+          "comment": "Tuchman's narrative style brings history to life."
+        },
+        {
+          "username": "WWIHistoryBuff",
+          "rating": 4.8,
+          "comment": "An insightful exploration of the complex factors leading to the Great War."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 21.99
+        },
+        "hardcover": {
+          "price": 39.99
+        },
+        "ebook": {
+          "price": 19.99
+        }
+      },
+      "publishedDate": "1962-10-04"
+    },
+    {
+      "id": 56,
+      "bookName": "Band of Brothers",
+      "author": "Stephen E. Ambrose",
+      "ratings": 4.7,
+      "featured": false,
+      "bestseller": true,
+      "price": 29.99,
+      "image": "assets/images/the-bands-of-brothers.jpg",
+      "description": "A gripping account of Easy Company, part of the 506th Parachute Infantry Regiment, 101st Airborne, during World War II. The story follows their journey from training to D-Day and beyond.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-08-15",
+      "genre": "Non-Fiction History",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 15,
+      "reviews": [
+        {
+          "username": "WWIIVeteran",
+          "rating": 4.8,
+          "comment": "Ambrose captures the camaraderie and challenges faced by these brave soldiers."
+        },
+        {
+          "username": "HistoryReader",
+          "rating": 4.7,
+          "comment": "An immersive journey through the experiences of Easy Company."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 26.99
+        },
+        "hardcover": {
+          "price": 49.99
+        },
+        "ebook": {
+          "price": 27.99
+        }
+      },
+      "publishedDate": "1992-05-01"
+    },
+    {
+      "id": 57,
+      "bookName": "The Diary of Anne Frank",
+      "author": "Anne Frank",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": true,
+      "price": 26.99,
+      "image": "assets/images/the-diary-of-young-girl-f.jpg",
+      "description": "The poignant diary of Anne Frank, a Jewish girl hiding from the Nazis during World War II. Her reflections offer a powerful account of life in hiding and the impact of war.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-01",
+      "genre": "Non-Fiction History",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 7,
+      "reviews": [
+        {
+          "username": "WWIIHistoryBuff",
+          "rating": 4.9,
+          "comment": "Anne Frank's diary is a heartbreaking and essential read."
+        },
+        {
+          "username": "HistoryReader",
+          "rating": 4.8,
+          "comment": "A powerful firsthand account of the human impact of war."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 23.99
+        },
+        "hardcover": {
+          "price": 41.99
+        },
+        "ebook": {
+          "price": 22.99
+        }
+      },
+      "publishedDate": "1947-06-25"
+    },
+    {
+      "id": 58,
+      "bookName": "The Wright Brothers",
+      "author": "David McCullough",
+      "ratings": 4.7,
+      "featured": true,
+      "bestseller": false,
+      "price": 31.99,
+      "image": "assets/images/the-wright-brothers.jpg",
+      "description": "A biography of Orville and Wilbur Wright, pioneers of aviation. McCullough explores their journey to inventing and building the world's first successful powered aircraft.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-09-15",
+      "genre": "Non-Fiction History",
+      "newArrival": true,
+      "ebooksAvailable": false,
+      "audiobooksAvailable": true,
+      "discount": 5,
+      "reviews": [
+        {
+          "username": "AviationEnthusiast",
+          "rating": 4.7,
+          "comment": "McCullough delivers a compelling narrative of the Wright brothers' groundbreaking achievements."
+        },
+        {
+          "username": "HistoryBuff",
+          "rating": 4.8,
+          "comment": "An inspiring tale of innovation and determination."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 28.99
+        },
+        "hardcover": {
+          "price": 54.99
+        },
+        "ebook": {
+          "price": 27.99
+        }
+      },
+      "publishedDate": "2015-05-05"
+    },
+    {
+      "id": 59,
+      "bookName": "Unbroken",
+      "author": "Laura Hillenbrand",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": true,
+      "price": 34.99,
+      "image": "assets/images/unbroken.jpg",
+      "description": "The incredible true story of Louis Zamperini, an Olympic athlete turned World War II bombardier, who survives a plane crash only to face captivity and challenges in Japanese POW camps.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-10-01",
+      "genre": "Non-Fiction History",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 20,
+      "reviews": [
+        {
+          "username": "HistoryReader",
+          "rating": 4.9,
+          "comment": "A gripping and inspirational account of resilience and survival."
+        },
+        {
+          "username": "WarHistoryFan",
+          "rating": 4.8,
+          "comment": "Hillenbrand brings Zamperini's harrowing experiences to life with vivid detail."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 31.99
+        },
+        "hardcover": {
+          "price": 59.99
+        },
+        "ebook": {
+          "price": 29.99
+        }
+      },
+      "publishedDate": "2010-11-16"
+    },
+    {
+      "id": 60,
+      "bookName": "1491: New Revelations of the Americas Before Columbus",
+      "author": "Charles C. Mann",
+      "ratings": 4.9,
+      "featured": false,
+      "bestseller": true,
+      "price": 39.99,
+      "image": "assets/images/1491.jpg",
+      "description": "Mann explores the Americas before Columbus, challenging preconceptions about indigenous civilizations and their impact on the continent's ecology and history.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-10-15",
+      "genre": "Non-Fiction History",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 25,
+      "reviews": [
+        {
+          "username": "HistoryExplorer",
+          "rating": 5,
+          "comment": "An eye-opening examination of the rich and diverse history of the Americas."
+        },
+        {
+          "username": "NativeHistoryEnthusiast",
+          "rating": 4.9,
+          "comment": "Mann's research provides a compelling perspective on pre-Columbian civilizations."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 36.99
+        },
+        "hardcover": {
+          "price": 69.99
+        },
+        "ebook": {
+          "price": 34.99
+        }
+      },
+      "publishedDate": "2005-08-09"
+    },
+    
+    {
+      "id": 61,
+      "bookName": "The Devil in the White City",
+      "author": "Erik Larson",
+      "ratings": 4.7,
+      "featured": false,
+      "bestseller": true,
+      "price": 49.99,
+      "image": "assets/images/the-devil-in-the-white-city.jpg",
+      "description": "Larson intertwines the stories of the 1893 Chicago World's Fair and the notorious serial killer H.H. Holmes. A gripping historical narrative of architecture, ambition, and crime.",
+      "languageAvailable": "English",
+      "shippingDate": "2024-11-15",
+      "genre": "Non-Fiction History",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 12,
+      "reviews": [
+        {
+          "username": "HistoryEnthusiast",
+          "rating": 4.8,
+          "comment": "Larson masterfully combines true crime and history into a captivating tale."
+        },
+        {
+          "username": "TrueCrimeReader",
+          "rating": 4.7,
+          "comment": "A thrilling exploration of Chicago's history and the darker side of the World's Fair."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 44.99
+        },
+        "hardcover": {
+          "price": 89.99
+        },
+        "ebook": {
+          "price": 42.99
+        }
+      },
+      "publishedDate": "2003-02-11"
+    },
+     
+      {
+        "id": 62,
+        "bookName": "Hamlet",
+        "author": "William Shakespeare",
+        "ratings": 4.8,
+        "featured": false,
+        "bestseller": true,
+        "price": 29.99,
+        "image": "assets/images/hamlet.jpg",
+        "description": "Prince Hamlet seeks revenge for his father's murder, encountering madness and tragedy.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-08-15",
+        "genre": "Tragedy",
+        "newArrival": true,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": false,
+        "discount": 15,
+        "reviews": [
+          {
+            "username": "TheatreAficionado",
+            "rating": 4.9,
+            "comment": "A haunting exploration of power, madness, and the human psyche."
+          },
+          {
+            "username": "ShakespeareLover",
+            "rating": 4.7,
+            "comment": "Hamlet's soliloquies and intricate plot make it a classic in Shakespearean literature."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 26.99
+          },
+          "hardcover": {
+            "price": 44.99
+          },
+          "ebook": {
+            "price": 22.99
+          }
+        },
+        "publishedDate": "1603-01-01"
+      },
+      {
+        "id": 63,
+        "bookName": "Macbeth",
+        "author": "William Shakespeare",
+        "ratings": 4.7,
+        "featured": false,
+        "bestseller": true,
+        "price": 32.99,
+        "image": "assets/images/macbeth.jpg",
+        "description": "The ambitious Macbeth's ascent to power and the consequences of his actions.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-09-01",
+        "genre": "Tragedy",
+        "newArrival": false,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": true,
+        "discount": 12,
+        "reviews": [
+          {
+            "username": "ShakespeareScholar",
+            "rating": 4.8,
+            "comment": "A gripping tragedy that delves into the consequences of unchecked ambition."
+          },
+          {
+            "username": "LiteraryReviewer",
+            "rating": 4.6,
+            "comment": "Shakespeare's portrayal of guilt and fate is masterfully depicted in Macbeth."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 28.99
+          },
+          "hardcover": {
+            "price": 54.99
+          },
+          "ebook": {
+            "price": 27.99
+          }
+        },
+        "publishedDate": "1606-04-01"
+      },
+      {
+        "id": 64,
+        "bookName": "Othello",
+        "author": "William Shakespeare",
+        "ratings": 4.8,
+        "featured": true,
+        "bestseller": false,
+        "price": 28.99,
+        "image": "assets/images/othello-f.jpg",
+        "description": "The tragic tale of Othello, a Moorish general, and the deceitful Iago's manipulation.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-09-15",
+        "genre": "Tragedy",
+        "newArrival": true,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": true,
+        "discount": 18,
+        "reviews": [
+          {
+            "username": "ShakespeareFanatic",
+            "rating": 4.9,
+            "comment": "Othello's themes of jealousy and betrayal are powerfully conveyed in Shakespeare's play."
+          },
+          {
+            "username": "DramaCritique",
+            "rating": 4.7,
+            "comment": "A riveting tragedy that explores the destructive power of suspicion and manipulation."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 24.99
+          },
+          "hardcover": {
+            "price": 42.99
+          },
+          "ebook": {
+            "price": 21.99
+          }
+        },
+        "publishedDate": "1603-11-01"
+      },
+      {
+        "id": 65,
+        "bookName": "A Midsummer Night's Dream",
+        "author": "William Shakespeare",
+        "ratings": 4.9,
+        "featured": false,
+        "bestseller": true,
+        "price": 26.99,
+        "image": "assets/images/a-midsumer-night-dream-f.jpg",
+        "description": "A whimsical comedy involving love, magic, and mistaken identities in a forest.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-10-01",
+        "genre": "Comedy",
+        "newArrival": true,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": false,
+        "discount": 15,
+        "reviews": [
+          {
+            "username": "ShakespeareEnthusiast",
+            "rating": 5,
+            "comment": "Shakespeare's comedic brilliance shines in this enchanting play."
+          },
+          {
+            "username": "TheatreLover",
+            "rating": 4.8,
+            "comment": "A delightful and humorous exploration of love and mischief."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 23.99
+          },
+          "hardcover": {
+            "price": 41.99
+          },
+          "ebook": {
+            "price": 20.99
+          }
+        },
+        "publishedDate": "1595-01-01"
+      },
+      {
+        "id": 66,
+        "bookName": "Much Ado About Nothing",
+        "author": "William Shakespeare",
+        "ratings": 4.7,
+        "featured": true,
+        "bestseller": true,
+        "price": 29.99,
+        "image": "assets/images/much-ado-about-nothing.jpg",
+        "description": "A witty comedy exploring love and deception, with memorable banter between Beatrice and Benedick.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-10-15",
+        "genre": "Comedy",
+        "newArrival": false,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": true,
+        "discount": 10,
+        "reviews": [
+          {
+            "username": "ShakespeareFanatic",
+            "rating": 4.8,
+            "comment": "A delightful and humorous exploration of love and deception."
+          },
+          {
+            "username": "TheatreCritic",
+            "rating": 4.6,
+            "comment": "Shakespeare's comedic genius shines through the characters of Beatrice and Benedick."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 26.99
+          },
+          "hardcover": {
+            "price": 44.99
+          },
+          "ebook": {
+            "price": 22.99
+          }
+        },
+        "publishedDate": "1598-02-01"
+      },
+      {
+        "id": 67,
+        "bookName": "Twelfth Night",
+        "author": "William Shakespeare",
+        "ratings": 4.8,
+        "featured": false,
+        "bestseller": false,
+        "price": 31.99,
+        "image": "assets/images/twelfth-night.jpg",
+        "description": "A tale of mistaken identities and romantic confusion with elements of both comedy and drama.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-11-01",
+        "genre": "Comedy",
+        "newArrival": true,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": true,
+        "discount": 12,
+        "reviews": [
+          {
+            "username": "ShakespeareEnthusiast",
+            "rating": 4.9,
+            "comment": "A delightful blend of comedy and drama, showcasing Shakespeare's narrative versatility."
+          },
+          {
+            "username": "TheatreLover",
+            "rating": 4.7,
+            "comment": "Twelfth Night's exploration of love and mistaken identity is a Shakespearean gem."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 28.99
+          },
+          "hardcover": {
+            "price": 54.99
+          },
+          "ebook": {
+            "price": 27.99
+          }
+        },
+        "publishedDate": "1601-01-06"
+      },
+      {
+        "id": 68,
+        "bookName": "The Tempest",
+        "author": "William Shakespeare",
+        "ratings": 4.9,
+        "featured": false,
+        "bestseller": false,
+        "price": 36.99,
+        "image": "assets/images/the-tempest.jpg",
+        "description": "A magical tale of shipwrecks, sorcery, and reconciliation, often considered Shakespeare's farewell to the stage.",
+        "languageAvailable": "English",
+        "shippingDate": "2024-11-15",
+        "genre": "Romance",
+        "newArrival": false,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": true,
+        "discount": 18,
+        "reviews": [
+          {
+            "username": "ShakespeareFanatic",
+            "rating": 5,
+            "comment": "A mesmerizing and fantastical journey into the realms of magic and forgiveness."
+          },
+          {
+            "username": "TheatreCritic",
+            "rating": 4.8,
+            "comment": "The Tempest stands as a testament to Shakespeare's unmatched storytelling and imagination."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 32.99
+          },
+          "hardcover": {
+            "price": 59.99
+          },
+          "ebook": {
+            "price": 29.99
+          }
+        },
+        "publishedDate": "1611-11-01"
+      },
+    
+    {
+      "id": 69,
+      "bookName": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "ratings": 4.7,
+      "featured": false,
+      "bestseller": true,
+      "price": 36.99,
+      "image": "assets/images/the-night-circus.jpg",
+      "description": "A magical and enchanting tale about a mysterious circus that appears at night, captivating audiences with its wonders.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-01-01",
+      "genre": "Fantasy",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": false,
+      "discount": 18,
+      "reviews": [
+        {
+          "username": "FantasyReader",
+          "rating": 4.7,
+          "comment": "Morgenstern's writing creates a dreamlike world that lingers in the imagination."
+        },
+        {
+          "username": "NightCircusFan",
+          "rating": 4.8,
+          "comment": "An atmospheric and captivating fantasy that transports readers to a magical realm."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 32.99
+        },
+        "hardcover": {
+          "price": 59.99
+        },
+        "ebook": {
+          "price": 29.99
+        }
+      },
+      "publishedDate": "2011-09-13"
+    },
+    {
+      "id": "10ab",
+      "bookName": "Mastering the Art of French Cooking",
+      "author": "Julia Child",
+      "ratings": 4.9,
+      "featured": true,
+      "bestseller": true,
+      "price": 32.99,
+      "image": "assets/images/mastering-french-cooking.jpg",
+      "description": "An iconic cookbook by Julia Child, focusing on French cuisine and providing detailed instructions for mastering classic French dishes.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-03-05",
+      "genre": "Food",
+      "newArrival": false,
+      "ebooksAvailable": false,
+      "audiobooksAvailable": true,
+      "discount": 15,
+      "reviews": [
+        {
+          "username": "FrenchCuisineLover",
+          "rating": 5.0,
+          "comment": "A culinary masterpiece!"
+        },
+        {
+          "username": "CookbookCollector",
+          "rating": 4.8,
+          "comment": "Timeless and delightful recipes."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 29.99
+        },
+        "hardcover": {
+          "price": 42.99
+        },
+        "ebook": {
+          "price": 27.99
+        }
+      },
+      "publishedDate": "1961-09-21"
+    },
+    {
+      "id": "11ab",
+      "bookName": "Food Rules",
+      "author": "Michael Pollan",
+      "ratings": 4.7,
+      "featured": false,
+      "bestseller": true,
+      "price": 19.99,
+      "image": "assets/images/the-food-rules.jpg",
+      "description": "A concise guide by Michael Pollan offering practical and straightforward rules for healthy eating and making better food choices.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-04-18",
+      "genre": "Food",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 10,
+      "reviews": [
+        {
+          "username": "HealthyEater",
+          "rating": 4.6,
+          "comment": "Simple yet impactful advice."
+        },
+        {
+          "username": "NutritionEnthusiast",
+          "rating": 4.8,
+          "comment": "A great resource for mindful eating."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 17.99
+        },
+        "hardcover": {
+          "price": 27.99
+        },
+        "ebook": {
+          "price": 15.99
+        }
+      },
+      "publishedDate": "2009-12-29"
+    },
+    {
+      "id": "12ab",
+      "bookName": "The Omnivore's Dilemma",
+      "author": "Michael Pollan",
+      "ratings": 4.6,
+      "featured": false,
+      "bestseller": true,
+      "price": 23.99,
+      "image": "assets/images/the-omnivore-dilemma.jpg",
+      "description": "Michael Pollan explores the complexities of the modern food industry and the impact of food choices on health and the environment.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-05-02",
+      "genre": "Food",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 8,
+      "reviews": [
+        {
+          "username": "EcoFoodie",
+          "rating": 4.7,
+          "comment": "Eye-opening and thought-provoking."
+        },
+        {
+          "username": "ConsciousConsumer",
+          "rating": 4.5,
+          "comment": "A must-read for those curious about food sources."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 21.99
+        },
+        "hardcover": {
+          "price": 32.99
+        },
+        "ebook": {
+          "price": 19.99
+        }
+      },
+      "publishedDate": "2006-04-11"
+    },
+   
+    {
+      "id": 70,
+      "bookName": "The Book Thief",
+      "author": "Markus Zusak",
+      "ratings": 4.8,
+      "featured": true,
+      "bestseller": false,
+      "price": 32.99,
+      "image": "assets/images/the-book-thief.jpg",
+      "description": "Set in Nazi Germany, this novel narrated by Death tells the story of Liesel Meminger and her love for books.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-02-15",
+      "genre": "Historical Fiction",
+      "newArrival": true,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 20,
+      "reviews": [
+        {
+          "username": "HistoricalFictionFan",
+          "rating": 4.9,
+          "comment": "Zusak's unique narrative perspective and beautiful prose make this a must-read."
+        },
+        {
+          "username": "BookLover",
+          "rating": 4.7,
+          "comment": "A poignant and unforgettable exploration of the power of words and storytelling."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 28.99
+        },
+        "hardcover": {
+          "price": 54.99
+        },
+        "ebook": {
+          "price": 27.99
+        }
+      },
+      "publishedDate": "2005-03-14"
+    },
+    {
+      "id": 71,
+      "bookName": "The Martian",
+      "author": "Andy Weir",
+      "ratings": 4.8,
+      "featured": false,
+      "bestseller": true,
+      "price": 29.99,
+      "image": "assets/images/the-martian-f.jpg",
+      "description": "A science fiction novel following astronaut Mark Watney's survival on Mars after being left behind by his crew.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-03-01",
+      "genre": "Science Fiction",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 15,
+      "reviews": [
+        {
+          "username": "SciFiEnthusiast",
+          "rating": 4.8,
+          "comment": "Weir's attention to scientific detail combined with a gripping narrative makes for an engaging read."
+        },
+        {
+          "username": "SpaceExplorer",
+          "rating": 4.7,
+          "comment": "A thrilling and humorous tale of survival against the odds."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 24.99
+        },
+        "hardcover": {
+          "price": 44.99
+        },
+        "ebook": {
+          "price": 22.99
+        }
+      },
+      "publishedDate": "2011-09-27"
+    },
+    {
+      "id": 72,
+      "bookName": "Gone Girl",
+      "author": "Gillian Flynn",
+      "ratings": 4.6,
+      "featured": true,
+      "bestseller": true,
+      "price": 24.99,
+      "image": "assets/images/gone-girl.jpg",
+      "description": "A psychological thriller revolving around the mysterious disappearance of Amy Dunne and the subsequent media frenzy.",
+      "languageAvailable": "English",
+      "shippingDate": "2025-03-15",
+      "genre": "Thriller",
+      "newArrival": false,
+      "ebooksAvailable": true,
+      "audiobooksAvailable": true,
+      "discount": 10,
+      "reviews": [
+        {
+          "username": "ThrillerFanatic",
+          "rating": 4.7,
+          "comment": "Flynn keeps readers guessing with her skillful plotting and unexpected twists."
+        },
+        {
+          "username": "MysteryReader",
+          "rating": 4.5,
+          "comment": "A dark and gripping exploration of deception and marital dynamics."
+        }
+      ],
+      "formats": {
+        "paperback": {
+          "price": 21.99
+        },
+        "hardcover": {
+          "price": 39.99
+        },
+        "ebook": {
+          "price": 19.99
+        }
+      },
+      "publishedDate": "2012-05-24"
+    },
+    
+      {
+        "id": "13abc",
+        "bookName": "The Blue Zones",
+        "author": "Dan Buettner",
+        "ratings": 4.7,
+        "featured": true,
+        "bestseller": true,
+        "price": 26.99,
+        "image": "assets/images/the-blue-zones-kitchen.jpg",
+        "description": "Explore the secrets of communities with the highest life expectancy and discover lifestyle habits that contribute to long and healthy lives.",
+        "languageAvailable": "English",
+        "shippingDate": "2025-06-15",
+        "genre": "Health",
+        "newArrival": false,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": true,
+        "discount": 10,
+        "reviews": [
+          {
+            "username": "WellnessSeeker",
+            "rating": 4.8,
+            "comment": "Inspiring and eye-opening research."
+          },
+          {
+            "username": "HealthEnthusiast",
+            "rating": 4.6,
+            "comment": "A must-read for those interested in longevity."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 24.99
+          },
+          "hardcover": {
+            "price": 36.99
+          },
+          "ebook": {
+            "price": 21.99
+          }
+        },
+        "publishedDate": "2008-04-22"
+      },
+      {
+        "id": "14abc",
+        "bookName": "How Not to Die",
+        "author": "Michael Greger",
+        "ratings": 4.9,
+        "featured": false,
+        "bestseller": true,
+        "price": 22.99,
+        "image": "assets/images/how-not-to-die.jpg",
+        "description": "Dr. Michael Greger examines common diseases and offers practical advice on nutrition to prevent and reverse them for a healthier life.",
+        "languageAvailable": "English",
+        "shippingDate": "2025-07-02",
+        "genre": "Health",
+        "newArrival": true,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": true,
+        "discount": 15,
+        "reviews": [
+          {
+            "username": "NutritionFanatic",
+            "rating": 5.0,
+            "comment": "Evidence-based and life-changing."
+          },
+          {
+            "username": "WellnessWarrior",
+            "rating": 4.8,
+            "comment": "A comprehensive guide to healthy living."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 19.99
+          },
+          "hardcover": {
+            "price": 29.99
+          },
+          "ebook": {
+            "price": 17.99
+          }
+        },
+        "publishedDate": "2015-12-08"
+      },
+      {
+        "id": "15abc",
+        "bookName": "Mindset: The New Psychology of Success",
+        "author": "Carol S. Dweck",
+        "ratings": 4.5,
+        "featured": false,
+        "bestseller": true,
+        "price": 18.99,
+        "image": "assets/images/mindset.jpg",
+        "description": "Explore the concept of mindset and how adopting a growth mindset can lead to success, resilience, and overall well-being.",
+        "languageAvailable": "English",
+        "shippingDate": "2025-08-19",
+        "genre": "Health",
+        "newArrival": false,
+        "ebooksAvailable": true,
+        "audiobooksAvailable": true,
+        "discount": 12,
+        "reviews": [
+          {
+            "username": "PersonalGrowth",
+            "rating": 4.6,
+            "comment": "Transformative and empowering."
+          },
+          {
+            "username": "SuccessSeeker",
+            "rating": 4.4,
+            "comment": "A guide to fostering a positive mindset."
+          }
+        ],
+        "formats": {
+          "paperback": {
+            "price": 16.99
+          },
+          "hardcover": {
+            "price": 26.99
+          },
+          "ebook": {
+            "price": 14.99
+          }
+        },
+        "publishedDate": "2006-12-26"
+      }
+    
+    
+
+  ]
+  
+  
+  
